@@ -1,0 +1,198 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "../map2/Cena2.tmx": {
+            "scale": 0.5399,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 522.3189479533247,
+                "y": 982.5893684015558
+            }
+        },
+        "../map2/Cena2.tmx#Cena2 (1)": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#Modern_Office_32x32": {
+            "scaleInDock": 0.25
+        },
+        "../map2/Cena2.tmx#New Piskel (1)": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#New Piskel (2)": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#Wallpaper": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#dove": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#omo64": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#testeaaa": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#tileset_elevator": {
+            "scaleInDock": 1
+        },
+        "../map2/Cena2.tmx#tileset_objects": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx": {
+            "scale": 0.18488715277777776,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3120.8225738297574,
+                "y": 484.0790647448239
+            }
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#Cena2 (1)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#Modern_Office_32x32": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#New Piskel (1)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#New Piskel (2)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#Wallpaper": {
+            "scaleInDock": 0.015625
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#dove": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#omo64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#testeaaa": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#tileset_elevator": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx#tileset_objects": {
+            "scaleInDock": 1
+        },
+        "ground.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5200,
+                "y": -1448
+            }
+        },
+        "map.tmx#background": {
+            "scaleInDock": 0.12
+        },
+        "map.tmx#building": {
+            "scaleInDock": 0.25
+        },
+        "map.tmx#cano": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "map.tmx#grass": {
+            "scaleInDock": 1
+        },
+        "map.tmx#ground": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "map.tmx#montanha": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "map.tmx#placa": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx#sky": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "map.tmx#tileset_elevator": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "map.tmx#trees": {
+            "scaleInDock": 0.25
+        },
+        "map.tmx#water": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tela1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4839.393939393939,
+                "y": 510.6060606060605
+            }
+        },
+        "tela1.tmx#background": {
+            "scaleInDock": 0.33
+        },
+        "tela1.tmx#building": {
+            "scaleInDock": 0.125
+        },
+        "tela1.tmx#chao": {
+            "scaleInDock": 1
+        },
+        "tela1.tmx#tileset_elevator": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/OneDrive/Documents/GitHub/2024-T0012-IN01-G04/assets/map",
+    "last.imagePath": "C:/Users/Inteli/OneDrive/Documents/GitHub/2024-T0012-IN01-G04/assets/map",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+        "map.tmx",
+        "../map2/Cena2.tmx"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "../map2/Cena2.tmx",
+        "map.tmx",
+        "C:/Users/Inteli/AppData/Local/Temp/b20ab314-9210-4dda-8111-45cb4cc6c4b2_Cena 2.zip.4b2/Cena 2/Cena2.tmx",
+        "tela1.tmx",
+        "ground.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 0
+}

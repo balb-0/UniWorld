@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "fase2.tmj",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "fase2.tmj": {
+            "scale": 0.1668861607142857,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2235.0565103992517,
+                "y": 572.2463719654918
+            }
+        },
+        "fase2.tmj#azul": {
+            "scaleInDock": 0.33
+        },
+        "fase2.tmj#bathroom": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#bolhas": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#clear": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#clear_produto": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#dove": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#dove_produto": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#elevador": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#fundo": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#lavanderia": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#rexona": {
+            "scaleInDock": 1
+        },
+        "fase2.tmj#rexona_produto": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2251,
+                "y": 841
+            }
+        },
+        "fase2.tmx#azul": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "fase2.tmx#bathroom": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#bolhas": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#clear": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#clear_produto": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#dove": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#dove_produto": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#elevador": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#fundo": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#lavanderia": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#rexona": {
+            "scaleInDock": 1
+        },
+        "fase2.tmx#rexona_produto": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/OneDrive - Etec Centro Paula Souza/Documents/Github/2024-T0012-IN01-G04/src/cenas/level2",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "fase2.tmj"
+    ],
+    "project": "fase2.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "fase2.tmj",
+        "fase2.tmx"
+    ]
+}
